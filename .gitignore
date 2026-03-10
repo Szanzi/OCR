@@ -1,0 +1,8 @@
+# 1. Tiltson le minden fájlt és mappát a projektben
+*
+
+# 2. KIVÉVE ezeket (a felkiáltójel jelenti a kivételt):
+!.gitignore
+!dist/
+!dist/**
+!README.md
