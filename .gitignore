@@ -4,5 +4,5 @@
 # 2. KIVÉVE ezeket (a felkiáltójel jelenti a kivételt):
 !.gitignore
 !dist/
-!dist/**
+!dist/dist/**
 !README.md
